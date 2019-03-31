@@ -1,0 +1,9 @@
+#pragma once
+
+const int DISPLAY_SIZE_WIDTH = 1920;
+const int DISPLAY_SIZE_HEIGHT= 1080;
+const int PROJECTOR_SIZE_WIDTH = 1920;
+const int PROJECTOR_SIZE_HEIGHT = 1080;
+
+const int CAMERA_SIZE_WIDTH = 640;
+const int CAMERA_SIZE_HEIGHT = 480;

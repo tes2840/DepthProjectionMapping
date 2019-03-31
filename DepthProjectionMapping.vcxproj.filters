@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\CameraCalibration.cpp">
+      <Filter>src\modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\DepthSensor.cpp">
+      <Filter>src\modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\Marker.cpp">
+      <Filter>src\modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\scenes\ScenePoseEstimation.cpp">
+      <Filter>src\scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\scenes\SceneDepthProjection.cpp">
+      <Filter>src\scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\modules">
+      <UniqueIdentifier>{d5d6f9bb-c70f-4fdf-8689-a2fd8ec3d82e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\scenes">
+      <UniqueIdentifier>{5bf3f4d1-ec90-4f71-95c3-92824d7d7860}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\scenes\libs">
+      <UniqueIdentifier>{77327d9e-e6bf-437d-a03b-3550369244df}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\CameraCalibration.hpp">
+      <Filter>src\modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\DepthSensor.hpp">
+      <Filter>src\modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\Marker.hpp">
+      <Filter>src\modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\scenes\ScenePoseEstimation.h">
+      <Filter>src\scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\scenes\SharedData.h">
+      <Filter>src\scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\scenes\ofxSceneConcrete.h">
+      <Filter>src\scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\scenes\SceneDepthProjection.h">
+      <Filter>src\scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\scenes\libs\ofxStateMachine.h">
+      <Filter>src\scenes\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="src\scenes\libs\ofxState.h">
+      <Filter>src\scenes\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Header.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
