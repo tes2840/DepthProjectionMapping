@@ -9,5 +9,6 @@ int main()
 	ofSetFullscreen(true);
 	ofSetWindowShape(DISPLAY_SIZE_WIDTH+PROJECTOR_SIZE_WIDTH, PROJECTOR_SIZE_HEIGHT);
 	ofSetWindowPosition(DISPLAY_SIZE_WIDTH, 0);
-    ofRunApp(std::make_shared<ofApp>());
+	//ofSetWindowPosition(0, 0);
+	ofRunApp(std::make_shared<ofApp>());
 }

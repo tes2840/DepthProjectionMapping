@@ -72,7 +72,7 @@ void ScenePoseEstimation::keyPressed(int key) {
 	if (key == 'q') {
 		m_perspectiveMatrix.copyTo( getSharedData().perspectiveMatrix );
 		cv::destroyWindow("PoseEstimation");
-		changeState("DepthProjection");
+		changeState("ProjectionAreaDetection");
 	}
 }
 

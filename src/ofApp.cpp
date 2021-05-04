@@ -1,6 +1,7 @@
 #include "ofApp.h"
 #include "scenes/ScenePoseEstimation.h"
 #include "scenes/SceneDepthProjection.h"
+#include "scenes/SceneProjectionAreaDetection.h"
 
 /**
  * @brief initialize variables
@@ -21,9 +22,11 @@ void ofApp::setup() {
 	// add the scenes
 	m_scenManager.addState<ScenePoseEstimation>();
 	m_scenManager.addState<SceneDepthProjection>();
+	m_scenManager.addState<SceneProjectionAreaDetection>();
 	
 	// change the scene
 	m_scenManager.changeState("PoseEstimation");
+	//m_scenManager.changeState("ProjectionAreaDetection"); 
 }
 
 /**
