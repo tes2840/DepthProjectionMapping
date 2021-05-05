@@ -45,6 +45,11 @@ DesktopCapture::DesktopCapture() {
 	// Create a window for displaying the image
 	cv::namedWindow("screen", cv::WINDOW_NORMAL);
 	cv::resizeWindow("screen", 640, 480);
+
+	// Init capture area
+	m_startPoint = cv::Point(0, 0);
+	m_endPoint = cv::Point(m_desktopWidth, m_desktopHeight);
+	m_captureArea = cv::Rect(m_startPoint, m_endPoint);
 }
 
 /**
@@ -72,10 +77,8 @@ void DesktopCapture::mouseCallback(int event, int x, int y, int flags, void *use
 	else if (event == cv::EVENT_LBUTTONUP) {
 		m_endPoint = cv::Point(x, y);
 		m_captureArea = cv::Rect(m_startPoint, m_endPoint);	// set the capture area
-		m_caputureAreaFixed = true;
 	}
 	else if (event == cv::EVENT_RBUTTONDOWN) {
-		m_caputureAreaFixed = false;
 	}
 }
 
@@ -90,13 +93,11 @@ void DesktopCapture::getDesktopImage(cv::Mat *dst) {
 	BitBlt(m_hMemDC, 0, 0, m_desktopWidth, m_desktopHeight, m_hDC, 0, 0, SRCCOPY);
 	GetDIBits(m_hMemDC, m_hBitmap, 0, m_desktopHeight, screenImage.data, (BITMAPINFO *)&m_bitmapInfo, DIB_RGB_COLORS);  //copy from hwindowCompatibleDC to hbwindow
 
-	if (m_caputureAreaFixed == true) {
-		cv::Mat tempImage = screenImage.clone();
-		*dst = tempImage(cv::Range(m_captureArea.y, m_captureArea.y + m_captureArea.height), cv::Range(m_captureArea.x, m_captureArea.x + m_captureArea.width));
+	cv::Mat tempImage = screenImage.clone();
+	*dst = tempImage(cv::Range(m_captureArea.y, m_captureArea.y + m_captureArea.height), cv::Range(m_captureArea.x, m_captureArea.x + m_captureArea.width));
 
-		// Draw the capture area
-		cv::rectangle(screenImage, m_captureArea, cv::Scalar(0, 0, 255), 2);
-	}
+	// Draw the capture area
+	cv::rectangle(screenImage, m_captureArea, cv::Scalar(0, 0, 255), 2);
 
 	cv::imshow("screen", screenImage); 
 	if (initFlag == false) {

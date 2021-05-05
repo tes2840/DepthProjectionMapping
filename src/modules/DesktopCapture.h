@@ -13,7 +13,6 @@ public:
 
 private:
 	// Capture area setting
-	bool m_caputureAreaFixed = false;	// Is the capture area fixed?
 	cv::Rect m_captureArea;				// Capture area
 	cv::Point m_startPoint;				// Start point of capture area
 	cv::Point m_endPoint;				// End point of capture area

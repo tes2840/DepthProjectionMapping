@@ -3,7 +3,9 @@
 #include "modules/cvui.h"
 
 #define GUI_NAME "GUI"
-
+#define GUI_WIDGET_COL_1_POS_X 20		// x-position of column 1 of gui
+#define GUI_WIDGET_COL_2_POS_X 150		// x-position of column 2 of gui
+#define GUI_OFFSET_POS_Y 50				// y-position offset between widgets
 /**
   * @brief Callback function for mouse events.
   * @param[in] event - 	One of the cv::MouseEventTypes constants.
@@ -30,7 +32,7 @@ void SceneProjectionAreaDetection::setup() {
 	m_areaDetector = new ProjectionAreaDetector(m_binThreshold, m_thickSize);
 
 	// init gui
-	m_gui = cv::Mat(200, 400, CV_8UC3);
+	m_gui = cv::Mat(300, 400, CV_8UC3);
 	cvui::init(GUI_NAME);
 
 	cv::namedWindow("ProjectionAreaDetection", cv::WINDOW_NORMAL);
@@ -103,10 +105,31 @@ void SceneProjectionAreaDetection::updateParamter() {
 	m_gui = cv::Scalar(49, 52, 49);
 
 	// Render UI components to the frame
-	cvui::text(m_gui, 20, 20, "Binarize threshold");
-	cvui::trackbar(m_gui, 150, 15, 200, &m_binThreshold, 1, 150);
-	cvui::text(m_gui, 20, 70, "Thick size");
-	cvui::trackbar(m_gui, 150, 65, 200, &m_thickSize, 1, 100);
+	int pos_y = 20;
+	cvui::text(m_gui, GUI_WIDGET_COL_1_POS_X, pos_y, "Binarize threshold");
+	cvui::trackbar(m_gui, GUI_WIDGET_COL_2_POS_X, pos_y - 5, 200, &m_binThreshold, 1, 150);
+
+	pos_y += GUI_OFFSET_POS_Y;
+	cvui::text(m_gui, GUI_WIDGET_COL_1_POS_X, pos_y, "Thick size");
+	cvui::trackbar(m_gui, GUI_WIDGET_COL_2_POS_X, pos_y - 5, 200, &m_thickSize, 1, 100);
+
+	pos_y += GUI_OFFSET_POS_Y;
+	cvui::text(m_gui, GUI_WIDGET_COL_1_POS_X, pos_y, "Background image");
+	if (cvui::button(m_gui, GUI_WIDGET_COL_2_POS_X, pos_y - 5, "Set")) {
+		m_backgroundImage = m_currentFrame.clone();
+	}
+
+	pos_y += GUI_OFFSET_POS_Y;
+	cvui::text(m_gui, GUI_WIDGET_COL_1_POS_X, pos_y, "Mask");
+	if (cvui::button(m_gui, GUI_WIDGET_COL_2_POS_X, pos_y - 5, "Set")) {
+		m_backgroundImage = m_isMaskFiexd = true;
+	}
+
+	pos_y += GUI_OFFSET_POS_Y;
+	cvui::text(m_gui, GUI_WIDGET_COL_1_POS_X, pos_y, "Composition");
+	if (cvui::button(m_gui, GUI_WIDGET_COL_2_POS_X, pos_y - 5, "Start")) {
+		m_backgroundImage = m_mask_compositing = true;
+	}
 	cvui::update();
 
 	// Update cvui stuff and show everything on the screen
@@ -132,13 +155,7 @@ void SceneProjectionAreaDetection::draw() {
   */
 void SceneProjectionAreaDetection::keyPressed(int key) {
 
-	if (key == 'c') {			// fixed background.
-		m_backgroundImage = m_currentFrame.clone();
-	} else if (key == 'm') {		// fixed mask pattern.
-		m_isMaskFiexd = true;
-	} else if (key == 'v') {		// start mask compositing
-		m_mask_compositing = true;
-	} else if (key == 'q') {
+	if (key == 'q') {
 		cv::destroyWindow("ProjectionAreaDetection");
 	}
 	else {
