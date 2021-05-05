@@ -30,13 +30,6 @@ void SceneProjectionAreaDetection::setup() {
 	// init module
 	m_pDepth = getSharedData().pDepth;
 	m_areaDetector = new ProjectionAreaDetector(m_binThreshold, m_thickSize);
-
-	// init gui
-	m_gui = cv::Mat(300, 400, CV_8UC3);
-	cvui::init(GUI_NAME);
-
-	cv::namedWindow("ProjectionAreaDetection", cv::WINDOW_NORMAL);
-	cv::resizeWindow("ProjectionAreaDetection", 1280, 800);
 }
 
 /**
@@ -45,6 +38,19 @@ void SceneProjectionAreaDetection::setup() {
   */
 void SceneProjectionAreaDetection::update() {
 	static bool setCallbackflg = false;
+	static bool initFlag = false;
+
+	// init window
+	if (initFlag == false) {
+		// init gui
+		m_gui = cv::Mat(300, 400, CV_8UC3);
+		cvui::init(GUI_NAME);
+
+		cv::namedWindow("ProjectionAreaDetection", cv::WINDOW_NORMAL);
+		cv::resizeWindow("ProjectionAreaDetection", 1280, 800);
+
+		initFlag = true;
+	}
 
 	if (ofGetFrameNum() % 5 != 0) {
 		// only update every 5 frames.

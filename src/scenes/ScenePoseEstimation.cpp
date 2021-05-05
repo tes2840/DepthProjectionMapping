@@ -45,8 +45,12 @@ void ScenePoseEstimation::update() {
 	}
 
 	// draw pose estimation result
-	putText(image, "Press 'q' to confirm perspective transform matrix",
+	putText(image, "Press 'd or q' to confirm perspective transform matrix.",
 		cv::Point(10, 20), cv::FONT_HERSHEY_SIMPLEX, 0.5, cv::Scalar(255, 0, 0), 2);
+	putText(image, "'d' : Start projection mapping of the depth image.",
+		cv::Point(10, 40), cv::FONT_HERSHEY_SIMPLEX, 0.5, cv::Scalar(255, 0, 0), 2);
+	putText(image, "'q' : Start projection mapping of the capture image.",
+		cv::Point(10, 60), cv::FONT_HERSHEY_SIMPLEX, 0.5, cv::Scalar(255, 0, 0), 2);
 	cv::imshow("PoseEstimation", image);
 }
 
@@ -73,6 +77,11 @@ void ScenePoseEstimation::keyPressed(int key) {
 		m_perspectiveMatrix.copyTo( getSharedData().perspectiveMatrix );
 		cv::destroyWindow("PoseEstimation");
 		changeState("ProjectionAreaDetection");
+	}
+	else if (key == 'd') {
+		m_perspectiveMatrix.copyTo(getSharedData().perspectiveMatrix);
+		cv::destroyWindow("PoseEstimation");
+		changeState("DepthProjection");
 	}
 }
 

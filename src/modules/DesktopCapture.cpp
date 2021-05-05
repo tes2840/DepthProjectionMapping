@@ -42,10 +42,6 @@ DesktopCapture::DesktopCapture() {
 	m_hMemDC = CreateCompatibleDC(m_hDC);
 	SelectObject(m_hMemDC, m_hBitmap);
 
-	// Create a window for displaying the image
-	cv::namedWindow("screen", cv::WINDOW_NORMAL);
-	cv::resizeWindow("screen", 640, 480);
-
 	// Init capture area
 	m_startPoint = cv::Point(0, 0);
 	m_endPoint = cv::Point(m_desktopWidth, m_desktopHeight);
@@ -99,7 +95,9 @@ void DesktopCapture::getDesktopImage(cv::Mat *dst) {
 	// Draw the capture area
 	cv::rectangle(screenImage, m_captureArea, cv::Scalar(0, 0, 255), 2);
 
-	cv::imshow("screen", screenImage); 
+	// Show screen image
+	cv::imshow("screen", screenImage);
+	cv::resizeWindow("screen", 640, 480);
 	if (initFlag == false) {
 		cv::setMouseCallback("screen", caputure_mouse_Callback, this);
 		initFlag = true;
