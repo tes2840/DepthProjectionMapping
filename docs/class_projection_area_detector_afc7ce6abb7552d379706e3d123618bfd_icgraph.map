@@ -1,0 +1,5 @@
+<map id="ProjectionAreaDetector::setSurroundingPixels" name="ProjectionAreaDetector::setSurroundingPixels">
+<area shape="rect" id="node2" href="$class_projection_area_detector.html#a3e2cab767414f39827b7bbc5c07addec" title="Create the mask image by calculating the difference of absolute values of each element of the two arr..." alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node4" href="$class_projection_area_detector.html#aa02bf96cfaacaec4de51a14ebc3ee5cd" title="Combine two images using a mask. " alt="" coords="209,71,365,112"/>
+<area shape="rect" id="node3" href="$class_scene_projection_area_detection.html#aa856f7accf570c53d2f42c71b128c4e7" title="update scene&#39;s parameters " alt="" coords="413,39,612,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ofxSceneConcrete" name="ofxSceneConcrete">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state.html" title="{itg::ofxState\&lt; SharedData \&gt;\n|+ changeStateEvent\l|+ stateEnter()\l+ stateExit()\l+ setup()\l+ update()\l+ draw()\l+ getName()\l+ touchDown()\l+ touchMoved()\l+ touchUp()\l+ touchDoubleTap()\land 11 more...\l}" alt="" coords="5,491,189,715"/>
+<area shape="rect" id="node3" href="$class_shared_data.html" title="{SharedData\n|+ camMatrix\l+ distCoeffs\l+ perspectiveMatrix\l|}" alt="" coords="30,321,165,428"/>
+<area shape="rect" id="node4" href="$class_depth_sensor.html" title="{DepthSensor\n|&#45; m_frameWidth\l&#45; m_frameHeight\l&#45; m_cameraId\l&#45; m_color_map\l&#45; m_pipe\l&#45; m_video\l|+ DepthSensor()\l+ DepthSensor()\l+ ~DepthSensor()\l+ getDepthImageWidth()\l+ getDepthImageHeight()\l+ getDepthImage()\l+ getColorImage()\l+ getVideoCapture()\l}" alt="" coords="14,5,181,259"/>
+</map>

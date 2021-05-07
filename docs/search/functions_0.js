@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['addstate',['addState',['../classitg_1_1ofx_state_machine.html#a552165a3c9633c347792ef5d497f330c',1,'itg::ofxStateMachine::addState()'],['../classitg_1_1ofx_state_machine.html#a9f5ed74c6781227444ed7c8116a51527',1,'itg::ofxStateMachine::addState(StatePtr state)'],['../classitg_1_1ofx_state_machine.html#ac43c276bb9eda6a561ea1e67133fa2f3',1,'itg::ofxStateMachine::addState(ofxState&lt; SharedData &gt; *state)']]],
+  ['applymask',['applyMask',['../class_projection_area_detector.html#a3e2cab767414f39827b7bbc5c07addec',1,'ProjectionAreaDetector']]]
+];

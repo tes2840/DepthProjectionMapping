@@ -1,0 +1,21 @@
+<map id="itg::ofxStateMachine::ofxStateMachine" name="itg::ofxStateMachine::ofxStateMachine">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state_machine.html#af33b5155b6f0dff38ef97a7a2694079a" title="itg::ofxStateMachine\l::enableAppEvents" alt="" coords="197,90,339,131"/>
+<area shape="rect" id="node7" href="$classitg_1_1ofx_state_machine.html#a6185b33e8bf0a53cec42e8dc61ac84b6" title="itg::ofxStateMachine\l::enableTouchEvents" alt="" coords="197,378,339,419"/>
+<area shape="rect" id="node13" href="$classitg_1_1ofx_state_machine.html#a8d3d69709f0122c7d6293f68b89156bc" title="itg::ofxStateMachine\l::enableMouseEvents" alt="" coords="195,606,341,647"/>
+<area shape="rect" id="node18" href="$classitg_1_1ofx_state_machine.html#ac1facb8aa8ff5ef2c582ca2928988d3e" title="itg::ofxStateMachine\l::enableKeyEvents" alt="" coords="197,802,339,843"/>
+<area shape="rect" id="node3" href="$classitg_1_1ofx_state_machine.html#a1535f5b58eccd9300646b4447b491834" title="itg::ofxStateMachine\l::update" alt="" coords="579,15,720,56"/>
+<area shape="rect" id="node4" href="$classitg_1_1ofx_state_machine.html#a17c705574d6b1681d5f3fdac5f03c0e9" title="itg::ofxStateMachine\l::onUpdate" alt="" coords="389,31,531,72"/>
+<area shape="rect" id="node5" href="$classitg_1_1ofx_state_machine.html#a8c7e8ce4938bcf2ac2e2a2b9498ccaa9" title="itg::ofxStateMachine\l::draw" alt="" coords="579,106,720,147"/>
+<area shape="rect" id="node6" href="$classitg_1_1ofx_state_machine.html#a7a44700789347036990594f5c47f4e54" title="itg::ofxStateMachine\l::onDraw" alt="" coords="389,148,531,190"/>
+<area shape="rect" id="node8" href="$classitg_1_1ofx_state_machine.html#a7bc8d06f1654ac49e53211ee3791deed" title="itg::ofxStateMachine\l::onTouchUp" alt="" coords="389,214,531,255"/>
+<area shape="rect" id="node9" href="$classitg_1_1ofx_state_machine.html#af770b79baa204d6cc5f694e190206bd4" title="itg::ofxStateMachine\l::onTouchDown" alt="" coords="389,279,531,320"/>
+<area shape="rect" id="node10" href="$classitg_1_1ofx_state_machine.html#a217ea654aa4ac9629b8100e82e5be25d" title="itg::ofxStateMachine\l::onTouchMoved" alt="" coords="389,344,531,386"/>
+<area shape="rect" id="node11" href="$classitg_1_1ofx_state_machine.html#a84e61efe7a61732a45f35a32290219c1" title="itg::ofxStateMachine\l::onTouchCancelled" alt="" coords="389,410,531,451"/>
+<area shape="rect" id="node12" href="$classitg_1_1ofx_state_machine.html#ae69bfe9f9b2b174730e0815d4236c305" title="itg::ofxStateMachine\l::onTouchDoubleTap" alt="" coords="389,475,531,516"/>
+<area shape="rect" id="node14" href="$classitg_1_1ofx_state_machine.html#a43a60ec145cc30b11c881780cc1684e2" title="itg::ofxStateMachine\l::onMouseReleased" alt="" coords="389,540,531,582"/>
+<area shape="rect" id="node15" href="$classitg_1_1ofx_state_machine.html#a2af47632152a96b42b5efb3988b9d0c3" title="itg::ofxStateMachine\l::onMousePressed" alt="" coords="389,606,531,647"/>
+<area shape="rect" id="node16" href="$classitg_1_1ofx_state_machine.html#a5ba781eaafaec38afd581cd0e12ea090" title="itg::ofxStateMachine\l::onMouseMoved" alt="" coords="389,671,531,712"/>
+<area shape="rect" id="node17" href="$classitg_1_1ofx_state_machine.html#a1211465c0a77fc9fa9414f6bccf10992" title="itg::ofxStateMachine\l::onMouseDragged" alt="" coords="389,736,531,778"/>
+<area shape="rect" id="node19" href="$classitg_1_1ofx_state_machine.html#af20eed66f084fa42f38ea3f078f66344" title="itg::ofxStateMachine\l::onKeyPressed" alt="" coords="389,802,531,843"/>
+<area shape="rect" id="node20" href="$classitg_1_1ofx_state_machine.html#ae18bb2b0aa7ab4a6898b67b1d1495e48" title="itg::ofxStateMachine\l::onKeyReleased" alt="" coords="389,867,531,908"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ofApp::readCameraParameters" name="ofApp::readCameraParameters">
+<area shape="rect" id="node2" href="$classof_app.html#a3efb01821b616696acacb8f9bd8e8539" title="get camera parameters and calibrate camera if there are no camera parameters " alt="" coords="253,5,417,32"/>
+<area shape="rect" id="node3" href="$classof_app.html#af68eaa1366244f7a541cd08e02199c12" title="initialize variables " alt="" coords="465,5,560,32"/>
+</map>

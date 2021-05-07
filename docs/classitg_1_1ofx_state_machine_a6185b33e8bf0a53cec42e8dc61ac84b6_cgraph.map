@@ -1,0 +1,7 @@
+<map id="itg::ofxStateMachine::enableTouchEvents" name="itg::ofxStateMachine::enableTouchEvents">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state_machine.html#a7bc8d06f1654ac49e53211ee3791deed" title="itg::ofxStateMachine\l::onTouchUp" alt="" coords="196,5,337,47"/>
+<area shape="rect" id="node3" href="$classitg_1_1ofx_state_machine.html#af770b79baa204d6cc5f694e190206bd4" title="itg::ofxStateMachine\l::onTouchDown" alt="" coords="196,71,337,112"/>
+<area shape="rect" id="node4" href="$classitg_1_1ofx_state_machine.html#a217ea654aa4ac9629b8100e82e5be25d" title="itg::ofxStateMachine\l::onTouchMoved" alt="" coords="196,136,337,177"/>
+<area shape="rect" id="node5" href="$classitg_1_1ofx_state_machine.html#a84e61efe7a61732a45f35a32290219c1" title="itg::ofxStateMachine\l::onTouchCancelled" alt="" coords="196,201,337,243"/>
+<area shape="rect" id="node6" href="$classitg_1_1ofx_state_machine.html#ae69bfe9f9b2b174730e0815d4236c305" title="itg::ofxStateMachine\l::onTouchDoubleTap" alt="" coords="196,267,337,308"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="itg::ofxStateMachine::onDraw" name="itg::ofxStateMachine::onDraw">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state_machine.html#af33b5155b6f0dff38ef97a7a2694079a" title="itg::ofxStateMachine\l::enableAppEvents" alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node4" href="$classitg_1_1ofx_state_machine.html#a490cc36b492d372c22958f75ff6580dd" title="itg::ofxStateMachine\l::disableAppEvents" alt="" coords="195,71,336,112"/>
+<area shape="rect" id="node3" href="$classitg_1_1ofx_state_machine.html#ac4a948c0176b991a80c09e23ab07f55a" title="itg::ofxStateMachine\l::ofxStateMachine" alt="" coords="384,5,525,47"/>
+</map>

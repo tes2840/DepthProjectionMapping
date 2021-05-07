@@ -1,0 +1,4 @@
+<map id="DepthSensor::getVideoCapture" name="DepthSensor::getVideoCapture">
+<area shape="rect" id="node2" href="$classof_app.html#a3efb01821b616696acacb8f9bd8e8539" title="get camera parameters and calibrate camera if there are no camera parameters " alt="" coords="255,5,419,32"/>
+<area shape="rect" id="node3" href="$classof_app.html#af68eaa1366244f7a541cd08e02199c12" title="initialize variables " alt="" coords="467,5,561,32"/>
+</map>

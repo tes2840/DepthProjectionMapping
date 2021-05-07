@@ -1,0 +1,3 @@
+<map id="SharedData" name="SharedData">
+<area shape="rect" id="node2" href="$class_depth_sensor.html" title="{DepthSensor\n|&#45; m_frameWidth\l&#45; m_frameHeight\l&#45; m_cameraId\l&#45; m_color_map\l&#45; m_pipe\l&#45; m_video\l|+ DepthSensor()\l+ DepthSensor()\l+ ~DepthSensor()\l+ getDepthImageWidth()\l+ getDepthImageHeight()\l+ getDepthImage()\l+ getColorImage()\l+ getVideoCapture()\l}" alt="" coords="5,5,172,259"/>
+</map>

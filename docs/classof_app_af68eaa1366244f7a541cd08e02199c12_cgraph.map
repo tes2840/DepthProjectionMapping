@@ -1,0 +1,11 @@
+<map id="ofApp::setup" name="ofApp::setup">
+<area shape="rect" id="node2" href="$classof_app.html#a3efb01821b616696acacb8f9bd8e8539" title="get camera parameters and calibrate camera if there are no camera parameters " alt="" coords="148,63,312,90"/>
+<area shape="rect" id="node3" href="$classof_app.html#a96000e568e84beb2396f55d689756a65" title="read camera parameters from the file " alt="" coords="361,13,561,39"/>
+<area shape="rect" id="node4" href="$class_depth_sensor.html#a879f8814bef414499fe0b36091074db5" title="Get video interface. " alt="" coords="360,63,561,90"/>
+<area shape="rect" id="node5" href="$class_camera_calibration.html#a2b83b4e88b76ed9d55de78df78465b0b" title="Calibrate camera. " alt="" coords="393,115,529,156"/>
+<area shape="rect" id="node6" href="$class_camera_calibration.html#aa97f0ebc66e37d2f80579943df6dad22" title="Create a new board image to calibrate camera. " alt="" coords="611,5,747,47"/>
+<area shape="rect" id="node7" href="$namespacecvui.html#a9f97a42ad632c5caa55a2b6f9828a81c" title="cvui::imshow" alt="" coords="631,71,727,98"/>
+<area shape="rect" id="node8" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="635,122,722,149"/>
+<area shape="rect" id="node9" href="$namespacecvui_1_1render.html#a4408e88d131b52f948bc6d5ec9cff74e" title="cvui::render::putText" alt="" coords="609,173,748,199"/>
+<area shape="rect" id="node10" href="$class_camera_calibration.html#af8813a0c6913c3e82d7d5f03de66dce4" title="Calibrate camera. " alt="" coords="609,224,748,265"/>
+</map>

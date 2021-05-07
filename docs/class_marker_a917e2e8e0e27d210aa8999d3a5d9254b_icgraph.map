@@ -1,0 +1,4 @@
+<map id="Marker::estimateBoardPose" name="Marker::estimateBoardPose">
+<area shape="rect" id="node2" href="$class_marker.html#ac82a8fe48293a4f8419ea74c895b6efd" title="get pose estimation for a charuco board " alt="" coords="237,13,417,39"/>
+<area shape="rect" id="node3" href="$class_scene_pose_estimation.html#a890eac44fa7cfe3088579e5bfc5ae76d" title="update scene&#39;s parameters &#160;estimate pose of the marker in camera image " alt="" coords="465,5,616,47"/>
+</map>

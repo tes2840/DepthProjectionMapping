@@ -1,0 +1,10 @@
+<map id="cvui::imshow" name="cvui::imshow">
+<area shape="rect" id="node2" href="$class_camera_calibration.html#a2b83b4e88b76ed9d55de78df78465b0b" title="Calibrate camera. " alt="" coords="181,5,317,47"/>
+<area shape="rect" id="node5" href="$class_desktop_capture.html#a47e351f5a2975e199d7157f510c768b8" title="DesktopCapture::getDesktop\lImage" alt="" coords="154,71,343,112"/>
+<area shape="rect" id="node6" href="$class_scene_projection_area_detection.html#aa856f7accf570c53d2f42c71b128c4e7" title="update scene&#39;s parameters " alt="" coords="396,129,595,171"/>
+<area shape="rect" id="node7" href="$class_scene_depth_projection.html#a004d113eefef9ac2c98d6af06d14f908" title="update scene&#39;s parameters &#160;get depth image and perform perspective transformation of it ..." alt="" coords="173,188,324,229"/>
+<area shape="rect" id="node8" href="$class_scene_pose_estimation.html#a890eac44fa7cfe3088579e5bfc5ae76d" title="update scene&#39;s parameters &#160;estimate pose of the marker in camera image " alt="" coords="173,253,324,295"/>
+<area shape="rect" id="node9" href="$class_scene_projection_area_detection.html#a7cfd2190838ddae7be6a20a8ea0acb55" title="update parameters " alt="" coords="149,319,348,360"/>
+<area shape="rect" id="node3" href="$classof_app.html#a3efb01821b616696acacb8f9bd8e8539" title="get camera parameters and calibrate camera if there are no camera parameters " alt="" coords="413,13,577,39"/>
+<area shape="rect" id="node4" href="$classof_app.html#af68eaa1366244f7a541cd08e02199c12" title="initialize variables " alt="" coords="643,13,737,39"/>
+</map>

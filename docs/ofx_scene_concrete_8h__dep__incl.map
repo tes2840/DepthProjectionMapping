@@ -1,0 +1,9 @@
+<map id="src/scenes/ofxSceneConcrete.h" name="src/scenes/ofxSceneConcrete.h">
+<area shape="rect" id="node2" href="$_scene_pose_estimation_8h.html" title="src/scenes/ScenePoseEstimation.h" alt="" coords="543,87,773,114"/>
+<area shape="rect" id="node5" href="$_scene_depth_projection_8h.html" title="src/scenes/SceneDepthProjection.h" alt="" coords="79,87,309,114"/>
+<area shape="rect" id="node7" href="$_scene_projection_area_detection_8h.html" title="src/scenes/SceneProjection\lAreaDetection.h" alt="" coords="333,80,519,121"/>
+<area shape="rect" id="node3" href="$of_app_8cpp.html" title="src/ofApp.cpp" alt="" coords="273,177,376,203"/>
+<area shape="rect" id="node4" href="$_scene_pose_estimation_8cpp.html" title="src/scenes/ScenePoseEstimation.cpp" alt="" coords="609,177,853,203"/>
+<area shape="rect" id="node6" href="$_scene_depth_projection_8cpp.html" title="src/scenes/SceneDepthProjection.cpp" alt="" coords="5,177,249,203"/>
+<area shape="rect" id="node8" href="$_scene_projection_area_detection_8cpp.html" title="src/scenes/SceneProjection\lAreaDetection.cpp" alt="" coords="400,169,585,211"/>
+</map>

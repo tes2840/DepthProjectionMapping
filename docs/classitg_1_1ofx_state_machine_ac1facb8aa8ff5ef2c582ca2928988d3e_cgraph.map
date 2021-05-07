@@ -1,0 +1,4 @@
+<map id="itg::ofxStateMachine::enableKeyEvents" name="itg::ofxStateMachine::enableKeyEvents">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state_machine.html#af20eed66f084fa42f38ea3f078f66344" title="itg::ofxStateMachine\l::onKeyPressed" alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classitg_1_1ofx_state_machine.html#ae18bb2b0aa7ab4a6898b67b1d1495e48" title="itg::ofxStateMachine\l::onKeyReleased" alt="" coords="195,71,336,112"/>
+</map>

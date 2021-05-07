@@ -1,0 +1,4 @@
+<map id="Marker::getPoseEstimation" name="Marker::getPoseEstimation">
+<area shape="rect" id="node2" href="$class_marker.html#a7f9bdd60908f7565264283ac226064c7" title="detect charuco board from input image " alt="" coords="233,5,421,32"/>
+<area shape="rect" id="node3" href="$class_marker.html#a917e2e8e0e27d210aa8999d3a5d9254b" title="estimate pose for a charuco board given some of their corners " alt="" coords="235,56,419,83"/>
+</map>

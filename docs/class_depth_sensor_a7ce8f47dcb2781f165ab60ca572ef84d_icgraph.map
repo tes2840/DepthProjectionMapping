@@ -1,0 +1,4 @@
+<map id="DepthSensor::getDepthImageWidth" name="DepthSensor::getDepthImageWidth">
+<area shape="rect" id="node2" href="$class_scene_depth_projection.html#a004d113eefef9ac2c98d6af06d14f908" title="update scene&#39;s parameters &#160;get depth image and perform perspective transformation of it ..." alt="" coords="245,5,396,47"/>
+<area shape="rect" id="node3" href="$class_scene_pose_estimation.html#a890eac44fa7cfe3088579e5bfc5ae76d" title="update scene&#39;s parameters &#160;estimate pose of the marker in camera image " alt="" coords="245,71,396,112"/>
+</map>

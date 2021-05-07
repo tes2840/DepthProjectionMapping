@@ -1,0 +1,13 @@
+<map id="ScenePoseEstimation::update" name="ScenePoseEstimation::update">
+<area shape="rect" id="node2" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="495,43,581,69"/>
+<area shape="rect" id="node3" href="$class_depth_sensor.html#afe7c7a81a6908a8c1e7296ccc402816c" title="Get color image. " alt="" coords="206,43,394,69"/>
+<area shape="rect" id="node4" href="$class_marker.html#ac82a8fe48293a4f8419ea74c895b6efd" title="get pose estimation for a charuco board " alt="" coords="210,195,390,221"/>
+<area shape="rect" id="node7" href="$class_marker.html#ac31fb5529b95c768c40a63dc0a255669" title="get corners for a charuco board in image " alt="" coords="216,144,384,171"/>
+<area shape="rect" id="node8" href="$class_marker.html#a48ea40952798e3ef957a714832318c75" title="draw frame of the board " alt="" coords="215,93,385,120"/>
+<area shape="rect" id="node9" href="$class_depth_sensor.html#a159c8334b30f1192cfab7018620f77a8" title="Get image capture heigth. " alt="" coords="204,246,396,287"/>
+<area shape="rect" id="node10" href="$class_depth_sensor.html#a7ce8f47dcb2781f165ab60ca572ef84d" title="Get image capture width. " alt="" coords="204,311,396,353"/>
+<area shape="rect" id="node11" href="$namespacecvui_1_1render.html#a4408e88d131b52f948bc6d5ec9cff74e" title="cvui::render::putText" alt="" coords="231,377,369,404"/>
+<area shape="rect" id="node12" href="$namespacecvui.html#a9f97a42ad632c5caa55a2b6f9828a81c" title="cvui::imshow" alt="" coords="252,428,348,455"/>
+<area shape="rect" id="node5" href="$class_marker.html#a7f9bdd60908f7565264283ac226064c7" title="detect charuco board from input image " alt="" coords="444,220,632,247"/>
+<area shape="rect" id="node6" href="$class_marker.html#a917e2e8e0e27d210aa8999d3a5d9254b" title="estimate pose for a charuco board given some of their corners " alt="" coords="446,169,630,196"/>
+</map>

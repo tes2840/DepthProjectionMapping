@@ -1,0 +1,9 @@
+<map id="SceneProjectionAreaDetection::updateParamter" name="SceneProjectionAreaDetection::updateParamter">
+<area shape="rect" id="node2" href="$namespacecvui.html#a5f7030644f1c1e8ab6f959945ca115aa" title="cvui::text" alt="" coords="293,5,367,32"/>
+<area shape="rect" id="node3" href="$namespacecvui.html#abf19033b705ecb712d22bde9f7258cb2" title="cvui::trackbar" alt="" coords="281,56,379,83"/>
+<area shape="rect" id="node4" href="$namespacecvui.html#a916eafea300cd8a23a4c66c715bde1df" title="cvui::button" alt="" coords="286,107,374,133"/>
+<area shape="rect" id="node5" href="$namespacecvui.html#ab83985e325abaf168bd878e7c6903992" title="cvui::update" alt="" coords="285,157,375,184"/>
+<area shape="rect" id="node6" href="$namespacecvui.html#a9f97a42ad632c5caa55a2b6f9828a81c" title="cvui::imshow" alt="" coords="282,208,378,235"/>
+<area shape="rect" id="node7" href="$class_projection_area_detector.html#a088bc4f6662a8bb8eae63bccfdfdd040" title="Set threshold of the binarization. " alt="" coords="252,259,408,301"/>
+<area shape="rect" id="node8" href="$class_projection_area_detector.html#a8cbe932aa9630b64a869fc772789cbd8" title="Set thick size. " alt="" coords="252,325,408,366"/>
+</map>

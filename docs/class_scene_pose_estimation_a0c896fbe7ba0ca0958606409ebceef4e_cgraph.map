@@ -1,0 +1,5 @@
+<map id="ScenePoseEstimation::draw" name="ScenePoseEstimation::draw">
+<area shape="rect" id="node2" href="$class_marker.html#a0a868a2c207d8b076ae0e8ee85ead1e5" title="Get marker image. " alt="" coords="211,5,374,32"/>
+<area shape="rect" id="node3" href="$classofx_scene_concrete.html#a086fcae30bae0716fc80530ef9d32775" title="convert Mat to ofImage " alt="" coords="204,57,381,98"/>
+<area shape="rect" id="node4" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="429,64,516,91"/>
+</map>

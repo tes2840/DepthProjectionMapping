@@ -1,0 +1,7 @@
+<map id="src/scenes/ScenePoseEstimation.h" name="src/scenes/ScenePoseEstimation.h">
+<area shape="rect" id="node2" href="$ofx_scene_concrete_8h.html" title="ofxSceneConcrete.h" alt="" coords="125,80,263,107"/>
+<area shape="rect" id="node10" href="$_marker_8hpp.html" title="../modules/Marker.hpp" alt="" coords="287,80,439,107"/>
+<area shape="rect" id="node3" href="$ofx_state_8h.html" title="libs/ofxState.h" alt="" coords="5,155,111,181"/>
+<area shape="rect" id="node5" href="$_shared_data_8h.html" title="SharedData.h" alt="" coords="146,155,247,181"/>
+<area shape="rect" id="node6" href="$_depth_sensor_8hpp.html" title="../modules/DepthSensor.hpp" alt="" coords="106,229,293,256"/>
+</map>

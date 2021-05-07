@@ -1,0 +1,5 @@
+<map id="ProjectionAreaDetector::combineImage" name="ProjectionAreaDetector::combineImage">
+<area shape="rect" id="node2" href="$class_projection_area_detector.html#ae8a2cf035b3e48f259461f95bff763fc" title="Resize the image to the width becomes the specified value with the fixed aspect ratio. " alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node3" href="$class_projection_area_detector.html#afc7ce6abb7552d379706e3d123618bfd" title="Sets the specified value around the specified position of the image. " alt="" coords="209,71,365,112"/>
+<area shape="rect" id="node4" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="413,78,500,105"/>
+</map>

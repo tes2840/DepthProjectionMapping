@@ -1,0 +1,17 @@
+<map id="cvui::image" name="cvui::image">
+<area shape="rect" id="node2" href="$class_camera_calibration.html#a2b83b4e88b76ed9d55de78df78465b0b" title="Calibrate camera. " alt="" coords="168,5,304,47"/>
+<area shape="rect" id="node5" href="$class_depth_sensor.html#adafe812fafee164d3d7ced7e0f542092" title="Get depth image. " alt="" coords="140,274,332,301"/>
+<area shape="rect" id="node7" href="$class_depth_sensor.html#afe7c7a81a6908a8c1e7296ccc402816c" title="Get color image. " alt="" coords="142,223,330,250"/>
+<area shape="rect" id="node8" href="$class_scene_pose_estimation.html#a890eac44fa7cfe3088579e5bfc5ae76d" title="update scene&#39;s parameters &#160;estimate pose of the marker in camera image " alt="" coords="387,132,537,173"/>
+<area shape="rect" id="node9" href="$class_scene_projection_area_detection.html#aa856f7accf570c53d2f42c71b128c4e7" title="update scene&#39;s parameters " alt="" coords="592,403,791,444"/>
+<area shape="rect" id="node10" href="$class_marker.html#a48ea40952798e3ef957a714832318c75" title="draw frame of the board " alt="" coords="151,173,321,199"/>
+<area shape="rect" id="node11" href="$class_projection_area_detector.html#a3e2cab767414f39827b7bbc5c07addec" title="Create the mask image by calculating the difference of absolute values of each element of the two arr..." alt="" coords="384,432,540,473"/>
+<area shape="rect" id="node12" href="$class_projection_area_detector.html#afc7ce6abb7552d379706e3d123618bfd" title="Sets the specified value around the specified position of the image. " alt="" coords="158,443,314,484"/>
+<area shape="rect" id="node14" href="$class_projection_area_detector.html#a0251dbf691e30f775b1d53a0151da3d8" title="Applies a perspective transformation to an image. " alt="" coords="384,563,540,604"/>
+<area shape="rect" id="node15" href="$classofx_scene_concrete.html#a086fcae30bae0716fc80530ef9d32775" title="convert Mat to ofImage " alt="" coords="147,325,325,367"/>
+<area shape="rect" id="node3" href="$classof_app.html#a3efb01821b616696acacb8f9bd8e8539" title="get camera parameters and calibrate camera if there are no camera parameters " alt="" coords="380,13,544,39"/>
+<area shape="rect" id="node4" href="$classof_app.html#af68eaa1366244f7a541cd08e02199c12" title="initialize variables " alt="" coords="644,13,739,39"/>
+<area shape="rect" id="node6" href="$class_scene_depth_projection.html#a004d113eefef9ac2c98d6af06d14f908" title="update scene&#39;s parameters &#160;get depth image and perform perspective transformation of it ..." alt="" coords="387,249,537,291"/>
+<area shape="rect" id="node13" href="$class_projection_area_detector.html#aa02bf96cfaacaec4de51a14ebc3ee5cd" title="Combine two images using a mask. " alt="" coords="384,497,540,539"/>
+<area shape="rect" id="node16" href="$class_scene_pose_estimation.html#a0c896fbe7ba0ca0958606409ebceef4e" title="draw marker image " alt="" coords="387,315,537,356"/>
+</map>

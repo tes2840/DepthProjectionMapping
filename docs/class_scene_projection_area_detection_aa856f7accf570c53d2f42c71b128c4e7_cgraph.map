@@ -1,0 +1,26 @@
+<map id="SceneProjectionAreaDetection::update" name="SceneProjectionAreaDetection::update">
+<area shape="rect" id="node2" href="$namespacecvui.html#ae723a98a9d41258961d970df271ed520" title="cvui::init" alt="" coords="317,157,386,184"/>
+<area shape="rect" id="node3" href="$class_scene_projection_area_detection.html#a7cfd2190838ddae7be6a20a8ea0acb55" title="update parameters " alt="" coords="252,209,451,250"/>
+<area shape="rect" id="node8" href="$namespacecvui.html#a9f97a42ad632c5caa55a2b6f9828a81c" title="cvui::imshow" alt="" coords="538,340,634,367"/>
+<area shape="rect" id="node11" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="784,568,871,595"/>
+<area shape="rect" id="node12" href="$class_depth_sensor.html#afe7c7a81a6908a8c1e7296ccc402816c" title="Get color image. " alt="" coords="257,492,445,519"/>
+<area shape="rect" id="node13" href="$class_projection_area_detector.html#a0251dbf691e30f775b1d53a0151da3d8" title="Applies a perspective transformation to an image. " alt="" coords="273,543,429,585"/>
+<area shape="rect" id="node14" href="$classitg_1_1ofx_state.html#aa812803c032b0292bad6b3ad23570216" title="itg::ofxState::getSharedData" alt="" coords="258,805,445,832"/>
+<area shape="rect" id="node15" href="$class_desktop_capture.html#a47e351f5a2975e199d7157f510c768b8" title="DesktopCapture::getDesktop\lImage" alt="" coords="257,375,446,417"/>
+<area shape="rect" id="node18" href="$class_projection_area_detector.html#a3707a89236e7c0b69a9a7cf1305a7ca9" title="Create the mask image by calculating the difference of absolute values of each element of the two arr..." alt="" coords="273,857,429,898"/>
+<area shape="rect" id="node19" href="$_scene_projection_area_detection_8cpp.html#aa7c411f61ce4471fed9870947b728b18" title="Callback function for mouse events. " alt="" coords="292,923,411,949"/>
+<area shape="rect" id="node21" href="$class_projection_area_detector.html#a3e2cab767414f39827b7bbc5c07addec" title="Create the mask image by calculating the difference of absolute values of each element of the two arr..." alt="" coords="273,609,429,650"/>
+<area shape="rect" id="node23" href="$class_projection_area_detector.html#aa02bf96cfaacaec4de51a14ebc3ee5cd" title="Combine two images using a mask. " alt="" coords="273,674,429,715"/>
+<area shape="rect" id="node25" href="$classofx_scene_concrete.html#a086fcae30bae0716fc80530ef9d32775" title="convert Mat to ofImage " alt="" coords="263,739,440,781"/>
+<area shape="rect" id="node4" href="$namespacecvui.html#a5f7030644f1c1e8ab6f959945ca115aa" title="cvui::text" alt="" coords="549,5,623,32"/>
+<area shape="rect" id="node5" href="$namespacecvui.html#abf19033b705ecb712d22bde9f7258cb2" title="cvui::trackbar" alt="" coords="537,56,635,83"/>
+<area shape="rect" id="node6" href="$namespacecvui.html#a916eafea300cd8a23a4c66c715bde1df" title="cvui::button" alt="" coords="542,107,630,133"/>
+<area shape="rect" id="node7" href="$namespacecvui.html#ab83985e325abaf168bd878e7c6903992" title="cvui::update" alt="" coords="541,157,631,184"/>
+<area shape="rect" id="node9" href="$class_projection_area_detector.html#a088bc4f6662a8bb8eae63bccfdfdd040" title="Set threshold of the binarization. " alt="" coords="508,209,664,250"/>
+<area shape="rect" id="node10" href="$class_projection_area_detector.html#a8cbe932aa9630b64a869fc772789cbd8" title="Set thick size. " alt="" coords="508,274,664,315"/>
+<area shape="rect" id="node16" href="$_desktop_capture_8cpp.html#a0135c09090de05dfd97f787e1055af8e" title="Callback function for mouse events. " alt="" coords="499,391,673,417"/>
+<area shape="rect" id="node17" href="$class_desktop_capture.html#a947c13d57484b1e40100c849cf1f7e83" title="Callback function for mouse events. " alt="" coords="721,391,933,417"/>
+<area shape="rect" id="node20" href="$class_projection_area_detector.html#a4a5fd45df715276385e5e72213abfa63" title="Callback function for mouse events. " alt="" coords="508,915,664,957"/>
+<area shape="rect" id="node22" href="$class_projection_area_detector.html#afc7ce6abb7552d379706e3d123618bfd" title="Sets the specified value around the specified position of the image. " alt="" coords="508,645,664,686"/>
+<area shape="rect" id="node24" href="$class_projection_area_detector.html#ae8a2cf035b3e48f259461f95bff763fc" title="Resize the image to the width becomes the specified value with the fixed aspect ratio. " alt="" coords="508,710,664,751"/>
+</map>

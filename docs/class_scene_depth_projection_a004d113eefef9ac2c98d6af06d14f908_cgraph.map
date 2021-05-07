@@ -1,0 +1,10 @@
+<map id="SceneDepthProjection::update" name="SceneDepthProjection::update">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state.html#aa812803c032b0292bad6b3ad23570216" title="itg::ofxState::getSharedData" alt="" coords="207,5,393,32"/>
+<area shape="rect" id="node3" href="$class_depth_sensor.html#adafe812fafee164d3d7ced7e0f542092" title="Get depth image. " alt="" coords="204,56,396,83"/>
+<area shape="rect" id="node5" href="$class_depth_sensor.html#afe7c7a81a6908a8c1e7296ccc402816c" title="Get color image. " alt="" coords="206,107,394,133"/>
+<area shape="rect" id="node6" href="$class_depth_sensor.html#a7ce8f47dcb2781f165ab60ca572ef84d" title="Get image capture width. " alt="" coords="204,158,396,199"/>
+<area shape="rect" id="node7" href="$class_depth_sensor.html#a159c8334b30f1192cfab7018620f77a8" title="Get image capture heigth. " alt="" coords="204,223,396,265"/>
+<area shape="rect" id="node8" href="$namespacecvui.html#a9f97a42ad632c5caa55a2b6f9828a81c" title="cvui::imshow" alt="" coords="252,289,348,316"/>
+<area shape="rect" id="node9" href="$classofx_scene_concrete.html#a086fcae30bae0716fc80530ef9d32775" title="convert Mat to ofImage " alt="" coords="211,341,389,382"/>
+<area shape="rect" id="node4" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="444,107,531,133"/>
+</map>

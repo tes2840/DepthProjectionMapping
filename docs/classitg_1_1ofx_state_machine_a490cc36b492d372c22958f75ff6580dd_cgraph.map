@@ -1,0 +1,6 @@
+<map id="itg::ofxStateMachine::disableAppEvents" name="itg::ofxStateMachine::disableAppEvents">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state_machine.html#a1535f5b58eccd9300646b4447b491834" title="itg::ofxStateMachine\l::update" alt="" coords="384,11,525,53"/>
+<area shape="rect" id="node3" href="$classitg_1_1ofx_state_machine.html#a17c705574d6b1681d5f3fdac5f03c0e9" title="itg::ofxStateMachine\l::onUpdate" alt="" coords="195,27,336,69"/>
+<area shape="rect" id="node4" href="$classitg_1_1ofx_state_machine.html#a8c7e8ce4938bcf2ac2e2a2b9498ccaa9" title="itg::ofxStateMachine\l::draw" alt="" coords="384,102,525,143"/>
+<area shape="rect" id="node5" href="$classitg_1_1ofx_state_machine.html#a7a44700789347036990594f5c47f4e54" title="itg::ofxStateMachine\l::onDraw" alt="" coords="195,145,336,186"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="src/Header.h" name="src/Header.h">
+<area shape="rect" id="node2" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="5,87,103,114"/>
+<area shape="rect" id="node3" href="$_depth_sensor_8cpp.html" title="src/modules/DepthSensor.cpp" alt="" coords="127,87,325,114"/>
+<area shape="rect" id="node4" href="$_marker_8cpp.html" title="src/modules/Marker.cpp" alt="" coords="349,87,511,114"/>
+<area shape="rect" id="node5" href="$_projection_area_detector_8h.html" title="src/modules/ProjectionArea\lDetector.h" alt="" coords="536,80,719,121"/>
+<area shape="rect" id="node10" href="$_scene_depth_projection_8cpp.html" title="src/scenes/SceneDepthProjection.cpp" alt="" coords="743,87,987,114"/>
+<area shape="rect" id="node6" href="$_projection_area_detector_8cpp.html" title="src/modules/ProjectionArea\lDetector.cpp" alt="" coords="432,169,615,211"/>
+<area shape="rect" id="node7" href="$_scene_projection_area_detection_8h.html" title="src/scenes/SceneProjection\lAreaDetection.h" alt="" coords="639,169,824,211"/>
+<area shape="rect" id="node8" href="$of_app_8cpp.html" title="src/ofApp.cpp" alt="" coords="596,266,699,293"/>
+<area shape="rect" id="node9" href="$_scene_projection_area_detection_8cpp.html" title="src/scenes/SceneProjection\lAreaDetection.cpp" alt="" coords="723,259,908,300"/>
+</map>

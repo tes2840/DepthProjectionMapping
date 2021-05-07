@@ -1,0 +1,6 @@
+<map id="itg::ofxStateMachine::enableMouseEvents" name="itg::ofxStateMachine::enableMouseEvents">
+<area shape="rect" id="node2" href="$classitg_1_1ofx_state_machine.html#a43a60ec145cc30b11c881780cc1684e2" title="itg::ofxStateMachine\l::onMouseReleased" alt="" coords="200,5,341,47"/>
+<area shape="rect" id="node3" href="$classitg_1_1ofx_state_machine.html#a2af47632152a96b42b5efb3988b9d0c3" title="itg::ofxStateMachine\l::onMousePressed" alt="" coords="200,71,341,112"/>
+<area shape="rect" id="node4" href="$classitg_1_1ofx_state_machine.html#a5ba781eaafaec38afd581cd0e12ea090" title="itg::ofxStateMachine\l::onMouseMoved" alt="" coords="200,136,341,177"/>
+<area shape="rect" id="node5" href="$classitg_1_1ofx_state_machine.html#a1211465c0a77fc9fa9414f6bccf10992" title="itg::ofxStateMachine\l::onMouseDragged" alt="" coords="200,201,341,243"/>
+</map>

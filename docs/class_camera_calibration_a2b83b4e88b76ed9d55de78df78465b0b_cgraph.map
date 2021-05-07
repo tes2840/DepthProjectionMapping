@@ -1,0 +1,7 @@
+<map id="CameraCalibration::calibrateCamera" name="CameraCalibration::calibrateCamera">
+<area shape="rect" id="node2" href="$class_camera_calibration.html#aa97f0ebc66e37d2f80579943df6dad22" title="Create a new board image to calibrate camera. " alt="" coords="191,5,327,47"/>
+<area shape="rect" id="node3" href="$namespacecvui.html#a9f97a42ad632c5caa55a2b6f9828a81c" title="cvui::imshow" alt="" coords="211,71,307,98"/>
+<area shape="rect" id="node4" href="$namespacecvui.html#a91bfea9b3bc194d0a2b5f9727815327d" title="cvui::image" alt="" coords="215,122,302,149"/>
+<area shape="rect" id="node5" href="$namespacecvui_1_1render.html#a4408e88d131b52f948bc6d5ec9cff74e" title="cvui::render::putText" alt="" coords="189,173,328,199"/>
+<area shape="rect" id="node6" href="$class_camera_calibration.html#af8813a0c6913c3e82d7d5f03de66dce4" title="Calibrate camera. " alt="" coords="189,224,328,265"/>
+</map>
